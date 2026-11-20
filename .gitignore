@@ -1,0 +1,21 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Pytest cache
+.pytest_cache/
+
+# PyCharm configuration
+.idea/
+
+# Large raw AWS datasets
+data/*.json
+
+# Temporary/debug files
+*.log
+.DS_Store
+Thumbs.db
