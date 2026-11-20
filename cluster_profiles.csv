@@ -1,0 +1,4 @@
+cluster,num_stops,num_packages,packages_per_stop,total_service_time,avg_service_time,total_package_volume,capacity_utilization,route_count
+0,144.87,216.19,1.509,15183.729,70.766,2259825.228,0.617,2298
+1,167.673,260.692,1.575,15696.8,60.401,2969711.584,0.842,2754
+2,103.625,228.702,2.309,20110.633,89.431,2614266.56,0.745,1060
